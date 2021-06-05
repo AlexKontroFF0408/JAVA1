@@ -1,0 +1,3 @@
+stars-lkjh,kjhg,kjh
+planets-jupiter,neptune,uran,mars,earth
+moons-proxsima

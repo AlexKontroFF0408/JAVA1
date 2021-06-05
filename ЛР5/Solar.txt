@@ -1,0 +1,3 @@
+stars-mizar,castor,nu scorpii
+planets-jupiter,neptune,uran
+moons-xsima

@@ -1,0 +1,10 @@
+Word: николай
+Count: 3
+Word: вы
+Count: 3
+Word: города
+Count: 2
+Word: ведь
+Count: 1
+Word: изумили
+Count: 1
